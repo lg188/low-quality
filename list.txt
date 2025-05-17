@@ -1,3 +1,9 @@
+---
+name: low-quality
+description: reduce generated content
+homepage: https://github.com/lg188/low-quality
+---
+
 *://19thcentury.us/*
 *://answer-all.com/*
 *://babytoddlerfamily.com/*
