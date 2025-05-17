@@ -57,4 +57,4 @@ homepage: https://github.com/lg188/low-quality
 *://www.stuvia.com/*
 *://www.tecmint.com/*
 *://www.townandcountrymag.com/*
-://www.tutorialspoint.com/*
+*://www.tutorialspoint.com/*
